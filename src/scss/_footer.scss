@@ -1,0 +1,14 @@
+.footer {
+    width: 100vw;
+    .attribution {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%);
+        bottom: 1rem;
+        a {
+            color: white;
+            text-decoration: none;
+            font-size: 30px;
+        }
+    }
+}
